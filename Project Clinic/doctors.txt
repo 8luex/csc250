@@ -1,0 +1,3 @@
+D001 Psychologist 30000.0 T.Madison 27 71200 0952978075 Female
+D002 Physiotherapist 30000.0 N.Elle 25 12000 0952564812 Female
+D003 Pharmacist 30000.0 K.Tatsuya 29 34140 0826456421 Male
